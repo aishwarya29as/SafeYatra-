@@ -1,17 +1,26 @@
-# safeyatra
+# SafeYatra 🛡️
 
-A new Flutter project.
+SafeYatra is a Flutter-based tourist safety and emergency assistance application designed to help travellers access important safety tools and emergency information in one place.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- 🆘 SOS emergency assistance
+- 📞 Emergency contacts and numbers
+- 🗺️ Safety map
+- ✅ Check My Safety
+- 🌐 Multilingual translator
+- 📋 Travel safety checklist
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- Android Studio
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## My Contribution
+
+I worked on the development of the SafeYatra mobile application, including the Flutter implementation, user interface and core safety features.
+
+## Project Status
+
+Academic project prototype developed as part of a student project.
